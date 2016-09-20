@@ -1,6 +1,6 @@
 {
   "name": "md-bottom-bar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "authors": [
     "S. Francis"
   ],
@@ -38,7 +38,8 @@
   ],
   "dependencies": {
     "polymer": "Polymer/polymer#^1.0.0",
-    "md-icon-label":"~1.0.0"
+    "md-icon-label":"~1.0.0",
+    "elliptical-polymer-behaviors": "~1.2.1"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
