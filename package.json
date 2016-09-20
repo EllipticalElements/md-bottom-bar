@@ -1,0 +1,11 @@
+{
+  "name": "md-bottom-bar",
+  "description": "Material design bottom bar",
+  "version": "1.0.0",
+  "author": "S.  Francis",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EllipticalElements/md-bottom-bar.git"
+  }
+}
